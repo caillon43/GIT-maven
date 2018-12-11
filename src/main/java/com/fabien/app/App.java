@@ -1,7 +1,7 @@
 package com.fabien.app;
 
 /**
- * Hello world!
+ * boujour boujourboujour!
  *
  */
 public class App 
